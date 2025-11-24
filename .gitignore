@@ -2,3 +2,6 @@ data/
 reports/
 weights/
 stomata/
+*.ipynb_checkpoints*
+*__pycache__*
+*archive*
